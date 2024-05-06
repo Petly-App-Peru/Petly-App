@@ -1,5 +1,6 @@
 const LOCALHOST = 'http://127.0.0.1:8000/';
 const DOMAIN = 'https://demical.rn-admin.site/';
+//const DOMAIN = 'https://petlyapp.com.pe/';
 
 export const BASE_URL = DOMAIN;
 

@@ -78,3 +78,13 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+# Comandos
+npx react-native eject
+npx pod-install
+npx react-native-asset
+npx react-native run-ios
+npx react-native run-android
+
+NO_FLIPPER=1 pod install --project-directory=ios
